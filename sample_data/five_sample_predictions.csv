@@ -1,0 +1,6 @@
+Request_ID,Service_Type,Requester_Type,Requested_Channel,Priority,Assigned_Office,Queue_Length,Required_Documents_Complete,SLA_Days,Predicted_SLA_Breached,Predicted_Breach_Probability
+SAMPLE-001,Records,Student,Portal,Normal,Registrar,22,No,5,0,0.4
+SAMPLE-002,Certification,Student,Portal,High,Student Affairs,3,Yes,3,0,0.0543
+SAMPLE-003,IT Support,Faculty,Email,Low,IT Helpdesk,18,Yes,7,0,0.1
+SAMPLE-004,Scholarship Inquiry,Student,Walk-in,Normal,Cashier,7,No,5,0,0.0
+SAMPLE-005,Records,Staff,Portal,High,Registrar,1,Yes,7,0,0.0543

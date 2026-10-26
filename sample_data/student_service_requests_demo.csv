@@ -1,0 +1,501 @@
+Request_ID,Service_Type,Requester_Type,Submission_Date,Requested_Channel,Priority,Assigned_Office,Queue_Length,Required_Documents_Complete,SLA_Days,Status,Reopened,Satisfaction_Score,Processing_Days
+REQ-1000,IT Support,Staff,2024-01-01,Email,Low,Cashier,8,Yes,7,Pending,No,4.0,
+REQ-1001,Certification,Staff,2024-01-01,Portal,Normal,Student Affairs,22,Yes,3,Completed,No,5.0,3.0
+REQ-1002,IT Support,Faculty,2024-01-01,Portal,Low,Registrar,0,Yes,3,Completed,Yes,2.0,5.0
+REQ-1003,Certification,Staff,2024-01-01,Portal,Low,IT Helpdesk,12,Yes,7,Pending,No,3.0,
+REQ-1004,Records,Student,2024-01-01,Email,Normal,Student Affairs,21,No,5,Completed,No,,5.0
+REQ-1005,Scholarship Inquiry,Staff,2024-01-01,Portal,Normal,IT Helpdesk,25,Yes,7,Pending,No,,
+REQ-1006,IT Support,Staff,2024-01-01,Walk-in,High,Cashier,6,No,3,Completed,No,3.0,4.0
+REQ-1007,IT Support,Faculty,2024-01-01,Email,Normal,IT Helpdesk,17,No,3,Completed,No,2.0,3.0
+REQ-1008,Records,Staff,2024-01-01,Walk-in,Normal,Registrar,5,Yes,5,Completed,No,2.0,3.0
+REQ-1009,Certification,Faculty,2024-01-01,Walk-in,Normal,Cashier,3,Yes,7,Pending,No,4.0,
+REQ-1010,Records,Student,2024-01-01,Email,Normal,Registrar,9,Yes,5,Completed,No,4.0,4.0
+REQ-1011,Scholarship Inquiry,Staff,2024-01-01,Portal,Normal,Registrar,23,No,7,Pending,No,2.0,
+REQ-1012,Certification,Student,2024-01-01,Walk-in,Normal,IT Helpdesk,18,Yes,7,Pending,No,1.0,
+REQ-1013,IT Support,Student,2024-01-01,Portal,High,Cashier,13,Yes,7,Completed,No,3.0,5.0
+REQ-1014,Certification,Faculty,2024-01-01,Portal,Normal,Student Affairs,7,Yes,5,Completed,No,5.0,3.0
+REQ-1015,Records,Staff,2024-01-01,Walk-in,Low,Registrar,3,Yes,7,Completed,No,1.0,6.0
+REQ-1016,Certification,Faculty,2024-01-01,Email,Normal,Registrar,7,Yes,5,Cancelled,No,3.0,
+REQ-1017,Records,Faculty,2024-01-01,Portal,High,Student Affairs,4,Yes,7,Completed,No,1.0,5.0
+REQ-1018,IT Support,Student,2024-01-01,Email,Low,Registrar,5,Yes,5,Completed,No,2.0,3.0
+REQ-1019,Certification,Student,2024-01-01,Email,Normal,Registrar,18,No,5,Completed,No,4.0,4.0
+REQ-1020,IT Support,Student,2024-01-01,Walk-in,High,Registrar,3,Yes,5,Completed,No,2.0,5.0
+REQ-1021,Records,Student,2024-01-01,Walk-in,Normal,IT Helpdesk,1,Yes,5,Pending,No,2.0,
+REQ-1022,Scholarship Inquiry,Staff,2024-01-01,Portal,High,Student Affairs,14,Yes,7,Completed,No,,6.0
+REQ-1023,Scholarship Inquiry,Staff,2024-01-01,Portal,Normal,Cashier,7,No,7,Completed,No,2.0,6.0
+REQ-1024,IT Support,Staff,2024-01-02,Email,Normal,Cashier,12,No,5,Completed,No,2.0,8.0
+REQ-1025,Records,Student,2024-01-02,Portal,Normal,Registrar,3,Yes,3,Completed,No,,8.0
+REQ-1026,Certification,Student,2024-01-02,Portal,High,Registrar,5,Yes,5,Completed,No,4.0,3.0
+REQ-1027,Records,Student,2024-01-02,Portal,Normal,IT Helpdesk,11,Yes,3,Pending,No,1.0,
+REQ-1028,Records,Faculty,2024-01-02,Portal,Normal,Registrar,18,No,3,Completed,No,3.0,4.0
+REQ-1029,Certification,Faculty,2024-01-02,Walk-in,Normal,Registrar,11,Yes,3,Completed,No,4.0,3.0
+REQ-1030,IT Support,Faculty,2024-01-02,Portal,Normal,Registrar,14,Yes,5,Pending,Yes,2.0,
+REQ-1031,Scholarship Inquiry,Student,2024-01-02,Portal,Normal,Registrar,14,Yes,7,Completed,Yes,4.0,7.0
+REQ-1032,Records,Staff,2024-01-02,Walk-in,Normal,IT Helpdesk,7,Yes,5,Completed,No,4.0,3.0
+REQ-1033,Records,Student,2024-01-02,Portal,High,Cashier,7,Yes,5,Completed,No,2.0,4.0
+REQ-1034,Certification,Student,2024-01-02,Walk-in,Normal,Registrar,11,Yes,3,Cancelled,No,5.0,
+REQ-1035,Records,Staff,2024-01-02,Portal,Normal,IT Helpdesk,0,Yes,7,Completed,No,3.0,6.0
+REQ-1036,Records,Staff,2024-01-02,Portal,Normal,Cashier,18,No,3,Completed,No,,2.0
+REQ-1037,Certification,Student,2024-01-02,Portal,Normal,Cashier,16,Yes,7,Completed,No,1.0,6.0
+REQ-1038,Records,Faculty,2024-01-02,Walk-in,Normal,Student Affairs,8,Yes,7,Completed,No,2.0,5.0
+REQ-1039,Certification,Staff,2024-01-02,Email,Low,IT Helpdesk,10,Yes,7,Completed,No,5.0,6.0
+REQ-1040,Certification,Staff,2024-01-02,Email,Low,Student Affairs,8,No,3,Completed,No,,4.0
+REQ-1041,IT Support,Staff,2024-01-02,Portal,Normal,Registrar,17,Yes,3,Cancelled,No,2.0,
+REQ-1042,Certification,Faculty,2024-01-02,Portal,Normal,Registrar,20,Yes,3,Pending,No,,
+REQ-1043,Records,Faculty,2024-01-02,Email,Normal,Registrar,2,Yes,7,Completed,No,2.0,5.0
+REQ-1044,IT Support,Staff,2024-01-02,Portal,Low,IT Helpdesk,11,Yes,3,Pending,No,3.0,
+REQ-1045,IT Support,Student,2024-01-02,Email,Normal,IT Helpdesk,0,Yes,7,Cancelled,No,2.0,
+REQ-1046,Records,Student,2024-01-02,Walk-in,Low,Registrar,12,Yes,3,Completed,No,3.0,2.0
+REQ-1047,Records,Faculty,2024-01-02,Walk-in,Normal,Cashier,6,Yes,3,Completed,No,,2.0
+REQ-1048,Certification,Staff,2024-01-03,Email,High,Registrar,9,Yes,3,Cancelled,No,5.0,
+REQ-1049,Records,Student,2024-01-03,Portal,Low,Registrar,12,Yes,7,Completed,No,5.0,6.0
+REQ-1050,Records,Faculty,2024-01-03,Portal,Normal,Registrar,8,No,5,Pending,No,2.0,
+REQ-1051,Records,Faculty,2024-01-03,Walk-in,Low,IT Helpdesk,10,Yes,5,Completed,No,,4.0
+REQ-1052,IT Support,Faculty,2024-01-03,Email,Normal,Registrar,20,Yes,5,Completed,No,3.0,3.0
+REQ-1053,Certification,Staff,2024-01-03,Email,Low,Registrar,21,Yes,5,Pending,No,4.0,
+REQ-1054,Certification,Student,2024-01-03,Email,Normal,Registrar,0,Yes,5,Completed,No,5.0,8.0
+REQ-1055,IT Support,Staff,2024-01-03,Portal,Normal,Cashier,10,Yes,5,Completed,No,4.0,5.0
+REQ-1056,Certification,Faculty,2024-01-03,Walk-in,High,Student Affairs,22,Yes,3,Completed,No,4.0,1.0
+REQ-1057,Certification,Staff,2024-01-03,Walk-in,Low,IT Helpdesk,14,Yes,3,Completed,No,3.0,2.0
+REQ-1058,Records,Faculty,2024-01-03,Walk-in,Normal,Cashier,5,Yes,5,Completed,No,4.0,4.0
+REQ-1059,Records,Student,2024-01-03,Walk-in,Normal,Student Affairs,16,No,3,Completed,No,,3.0
+REQ-1060,Certification,Staff,2024-01-03,Portal,High,Student Affairs,3,No,5,Completed,No,3.0,5.0
+REQ-1061,Certification,Staff,2024-01-03,Portal,Normal,IT Helpdesk,0,Yes,3,Completed,No,4.0,3.0
+REQ-1062,Certification,Student,2024-01-03,Portal,Normal,Student Affairs,17,Yes,7,Completed,No,2.0,5.0
+REQ-1063,IT Support,Staff,2024-01-03,Walk-in,Normal,Student Affairs,13,Yes,3,Pending,No,3.0,
+REQ-1064,Certification,Staff,2024-01-03,Email,Normal,Cashier,20,Yes,3,Completed,No,5.0,8.0
+REQ-1065,Certification,Faculty,2024-01-03,Email,High,IT Helpdesk,9,Yes,5,Completed,No,4.0,5.0
+REQ-1066,Certification,Staff,2024-01-03,Walk-in,Normal,Registrar,23,Yes,3,Completed,No,2.0,1.0
+REQ-1067,Records,Faculty,2024-01-03,Email,Normal,Registrar,11,Yes,5,Completed,No,4.0,4.0
+REQ-1068,Records,Faculty,2024-01-03,Walk-in,Low,IT Helpdesk,19,Yes,3,Pending,No,5.0,
+REQ-1069,Certification,Student,2024-01-03,Walk-in,Normal,IT Helpdesk,2,No,3,Completed,No,1.0,2.0
+REQ-1070,Records,Staff,2024-01-03,Portal,High,IT Helpdesk,2,Yes,7,Completed,No,1.0,7.0
+REQ-1071,Records,Student,2024-01-03,Email,Normal,IT Helpdesk,21,Yes,7,Cancelled,No,3.0,
+REQ-1072,IT Support,Staff,2024-01-04,Walk-in,Normal,IT Helpdesk,22,Yes,3,Pending,No,4.0,
+REQ-1073,Records,Faculty,2024-01-04,Walk-in,High,Student Affairs,25,Yes,7,Pending,No,2.0,
+REQ-1074,Records,Faculty,2024-01-04,Portal,High,Registrar,8,Yes,7,Pending,No,5.0,
+REQ-1075,Records,Student,2024-01-04,Portal,Normal,Registrar,0,No,5,Pending,No,,
+REQ-1076,Records,Staff,2024-01-04,Email,Normal,Cashier,26,Yes,5,Completed,No,4.0,7.0
+REQ-1077,Certification,Student,2024-01-04,Walk-in,Normal,Student Affairs,16,Yes,7,Completed,No,3.0,5.0
+REQ-1078,Certification,Faculty,2024-01-04,Portal,Normal,Student Affairs,6,Yes,5,Completed,No,1.0,3.0
+REQ-1079,IT Support,Staff,2024-01-04,Email,Normal,Student Affairs,20,Yes,5,Completed,Yes,5.0,3.0
+REQ-1080,Certification,Staff,2024-01-04,Portal,Low,Student Affairs,24,Yes,5,Completed,No,,8.0
+REQ-1081,Records,Staff,2024-01-04,Portal,High,Registrar,7,Yes,7,Completed,No,3.0,7.0
+REQ-1082,IT Support,Staff,2024-01-04,Email,High,IT Helpdesk,20,No,7,Completed,No,4.0,12.0
+REQ-1083,Records,Faculty,2024-01-04,Email,High,Registrar,21,Yes,3,Pending,No,5.0,
+REQ-1084,Records,Student,2024-01-04,Email,High,IT Helpdesk,13,Yes,5,Pending,No,5.0,
+REQ-1085,Records,Staff,2024-01-04,Portal,Normal,Student Affairs,17,Yes,7,Completed,No,1.0,9.0
+REQ-1086,IT Support,Staff,2024-01-04,Walk-in,Normal,Registrar,7,No,3,Completed,No,5.0,8.0
+REQ-1087,Certification,Staff,2024-01-04,Portal,Normal,IT Helpdesk,25,Yes,7,Completed,No,,12.0
+REQ-1088,Records,Faculty,2024-01-04,Walk-in,Normal,Registrar,26,Yes,7,Completed,No,5.0,6.0
+REQ-1089,Certification,Student,2024-01-04,Portal,Normal,Registrar,26,Yes,7,Cancelled,No,3.0,
+REQ-1090,Records,Faculty,2024-01-04,Walk-in,Low,Registrar,19,Yes,3,Pending,No,4.0,
+REQ-1091,Certification,Faculty,2024-01-04,Email,Normal,Registrar,1,Yes,5,Cancelled,No,2.0,
+REQ-1092,Certification,Staff,2024-01-04,Email,Normal,Student Affairs,9,Yes,5,Pending,No,4.0,
+REQ-1093,Records,Faculty,2024-01-04,Portal,Normal,IT Helpdesk,12,Yes,5,Cancelled,Yes,2.0,
+REQ-1094,Records,Student,2024-01-04,Walk-in,Normal,Student Affairs,25,Yes,7,Completed,Yes,3.0,5.0
+REQ-1095,Certification,Student,2024-01-04,Portal,Normal,Cashier,14,Yes,5,Completed,No,2.0,3.0
+REQ-1096,Records,Staff,2024-01-05,Email,Low,Registrar,14,No,5,Completed,No,3.0,3.0
+REQ-1097,Records,Staff,2024-01-05,Walk-in,High,Registrar,3,No,7,Completed,No,3.0,7.0
+REQ-1098,Records,Student,2024-01-05,Walk-in,High,Student Affairs,21,Yes,7,Completed,No,1.0,6.0
+REQ-1099,Scholarship Inquiry,Faculty,2024-01-05,Walk-in,Low,Registrar,9,Yes,7,Completed,No,5.0,5.0
+REQ-1100,Scholarship Inquiry,Faculty,2024-01-05,Portal,Low,Student Affairs,2,Yes,5,Cancelled,No,3.0,
+REQ-1101,Certification,Faculty,2024-01-05,Walk-in,Normal,Registrar,26,No,7,Completed,No,,10.0
+REQ-1102,Records,Staff,2024-01-05,Walk-in,Normal,Cashier,5,Yes,3,Cancelled,No,2.0,
+REQ-1103,Scholarship Inquiry,Student,2024-01-05,Portal,High,Student Affairs,0,Yes,5,Pending,No,5.0,
+REQ-1104,IT Support,Student,2024-01-05,Portal,Low,Registrar,2,Yes,5,Completed,No,2.0,4.0
+REQ-1105,Certification,Student,2024-01-05,Walk-in,Normal,Registrar,12,No,3,Completed,Yes,4.0,2.0
+REQ-1106,Certification,Student,2024-01-05,Portal,Low,Student Affairs,2,Yes,5,Completed,No,3.0,3.0
+REQ-1107,Records,Staff,2024-01-05,Email,Normal,Registrar,22,Yes,5,Completed,No,3.0,5.0
+REQ-1108,Records,Staff,2024-01-05,Portal,High,IT Helpdesk,13,No,5,Completed,No,4.0,4.0
+REQ-1109,Scholarship Inquiry,Student,2024-01-05,Portal,Low,IT Helpdesk,8,Yes,3,Cancelled,No,5.0,
+REQ-1110,Certification,Faculty,2024-01-05,Walk-in,Low,Registrar,0,No,3,Completed,No,2.0,8.0
+REQ-1111,Records,Student,2024-01-05,Portal,Normal,Cashier,12,Yes,3,Completed,No,,3.0
+REQ-1112,Records,Student,2024-01-05,Walk-in,Normal,Cashier,4,Yes,5,Completed,No,2.0,5.0
+REQ-1113,Certification,Student,2024-01-05,Walk-in,High,Registrar,26,No,3,Completed,No,2.0,2.0
+REQ-1114,Records,Student,2024-01-05,Portal,High,Student Affairs,7,Yes,5,Completed,No,2.0,3.0
+REQ-1115,IT Support,Faculty,2024-01-05,Portal,Low,Registrar,12,Yes,7,Completed,No,,10.0
+REQ-1116,IT Support,Staff,2024-01-05,Walk-in,Low,Registrar,0,Yes,7,Completed,No,1.0,5.0
+REQ-1117,Certification,Faculty,2024-01-05,Email,Normal,IT Helpdesk,3,Yes,3,Completed,No,3.0,2.0
+REQ-1118,Certification,Staff,2024-01-05,Portal,Normal,Student Affairs,5,Yes,7,Completed,No,3.0,6.0
+REQ-1119,Certification,Faculty,2024-01-05,Walk-in,High,Registrar,1,Yes,3,Completed,No,5.0,3.0
+REQ-1120,Certification,Student,2024-01-06,Portal,Normal,Registrar,19,Yes,3,Completed,No,3.0,2.0
+REQ-1121,Certification,Student,2024-01-06,Portal,Low,IT Helpdesk,25,Yes,3,Completed,No,,6.0
+REQ-1122,Records,Student,2024-01-06,Walk-in,High,Cashier,26,Yes,3,Completed,No,5.0,1.0
+REQ-1123,Records,Student,2024-01-06,Portal,Low,Registrar,7,Yes,7,Completed,No,5.0,11.0
+REQ-1124,Records,Staff,2024-01-06,Email,Normal,IT Helpdesk,21,Yes,3,Completed,No,5.0,1.0
+REQ-1125,Certification,Staff,2024-01-06,Walk-in,Normal,Cashier,13,Yes,7,Completed,No,1.0,7.0
+REQ-1126,Records,Staff,2024-01-06,Email,Normal,Registrar,1,No,5,Completed,No,3.0,4.0
+REQ-1127,Records,Faculty,2024-01-06,Email,Normal,Registrar,2,Yes,3,Completed,No,4.0,8.0
+REQ-1128,Records,Faculty,2024-01-06,Email,Normal,Registrar,14,Yes,5,Completed,No,2.0,5.0
+REQ-1129,Certification,Faculty,2024-01-06,Portal,High,IT Helpdesk,11,Yes,3,Cancelled,No,1.0,
+REQ-1130,Records,Faculty,2024-01-06,Email,High,IT Helpdesk,0,No,5,Completed,No,1.0,5.0
+REQ-1131,Scholarship Inquiry,Staff,2024-01-06,Walk-in,Normal,Student Affairs,25,Yes,5,Pending,No,5.0,
+REQ-1132,Certification,Staff,2024-01-06,Portal,Low,Cashier,19,Yes,5,Completed,No,4.0,3.0
+REQ-1133,Records,Staff,2024-01-06,Walk-in,Normal,Cashier,13,Yes,3,Completed,No,2.0,2.0
+REQ-1134,Certification,Faculty,2024-01-06,Email,High,Student Affairs,26,Yes,7,Pending,No,5.0,
+REQ-1135,Records,Student,2024-01-06,Email,Normal,IT Helpdesk,26,Yes,5,Pending,Yes,5.0,
+REQ-1136,Scholarship Inquiry,Staff,2024-01-06,Portal,Normal,IT Helpdesk,26,No,3,Pending,No,5.0,
+REQ-1137,Certification,Faculty,2024-01-06,Email,Normal,Student Affairs,6,Yes,5,Completed,No,,5.0
+REQ-1138,IT Support,Staff,2024-01-06,Portal,Low,Registrar,23,Yes,3,Pending,No,,
+REQ-1139,Records,Faculty,2024-01-06,Portal,Normal,Cashier,13,Yes,7,Completed,No,2.0,6.0
+REQ-1140,Certification,Staff,2024-01-06,Walk-in,Normal,Cashier,19,Yes,7,Completed,No,5.0,6.0
+REQ-1141,Certification,Faculty,2024-01-06,Portal,Normal,Registrar,23,Yes,3,Completed,Yes,3.0,3.0
+REQ-1142,Scholarship Inquiry,Staff,2024-01-06,Email,High,IT Helpdesk,4,Yes,7,Cancelled,No,3.0,
+REQ-1143,Certification,Staff,2024-01-06,Email,High,Registrar,12,Yes,7,Completed,No,4.0,6.0
+REQ-1144,Certification,Student,2024-01-07,Portal,Normal,Registrar,3,Yes,5,Pending,Yes,4.0,
+REQ-1145,Records,Faculty,2024-01-07,Portal,Normal,IT Helpdesk,7,No,3,Completed,No,3.0,2.0
+REQ-1146,Records,Faculty,2024-01-07,Email,Normal,Registrar,11,Yes,7,Pending,No,,
+REQ-1147,Certification,Staff,2024-01-07,Email,High,Cashier,23,Yes,7,Completed,No,2.0,6.0
+REQ-1148,Certification,Staff,2024-01-07,Walk-in,Normal,Student Affairs,23,Yes,7,Pending,No,1.0,
+REQ-1149,Records,Staff,2024-01-07,Walk-in,High,Cashier,10,Yes,7,Completed,No,1.0,5.0
+REQ-1150,IT Support,Faculty,2024-01-07,Portal,Low,Registrar,8,Yes,7,Completed,No,5.0,6.0
+REQ-1151,Scholarship Inquiry,Faculty,2024-01-07,Portal,High,Registrar,14,No,7,Completed,No,3.0,7.0
+REQ-1152,Records,Faculty,2024-01-07,Portal,Low,Registrar,24,Yes,3,Completed,No,3.0,8.0
+REQ-1153,Certification,Staff,2024-01-07,Email,Low,Registrar,26,No,5,Completed,No,4.0,6.0
+REQ-1154,Records,Student,2024-01-07,Portal,Normal,Student Affairs,6,No,3,Completed,No,3.0,2.0
+REQ-1155,Certification,Faculty,2024-01-07,Portal,Low,IT Helpdesk,5,Yes,3,Completed,Yes,4.0,3.0
+REQ-1156,Records,Student,2024-01-07,Walk-in,Low,Registrar,19,Yes,7,Completed,No,1.0,7.0
+REQ-1157,Certification,Staff,2024-01-07,Walk-in,Low,Student Affairs,8,Yes,7,Completed,No,1.0,6.0
+REQ-1158,IT Support,Faculty,2024-01-07,Walk-in,Normal,IT Helpdesk,5,Yes,5,Cancelled,No,,
+REQ-1159,IT Support,Faculty,2024-01-07,Portal,Normal,Registrar,0,No,7,Completed,Yes,3.0,12.0
+REQ-1160,Records,Faculty,2024-01-07,Email,Low,Registrar,10,Yes,3,Cancelled,No,2.0,
+REQ-1161,Scholarship Inquiry,Faculty,2024-01-07,Email,Normal,Cashier,10,No,3,Cancelled,No,3.0,
+REQ-1162,Records,Staff,2024-01-07,Portal,High,Cashier,15,Yes,7,Completed,No,3.0,6.0
+REQ-1163,Records,Faculty,2024-01-07,Email,Low,Registrar,5,Yes,5,Completed,No,2.0,7.0
+REQ-1164,Certification,Faculty,2024-01-07,Email,Low,Student Affairs,19,Yes,5,Completed,No,2.0,4.0
+REQ-1165,Records,Student,2024-01-07,Email,High,Student Affairs,18,Yes,5,Completed,No,5.0,4.0
+REQ-1166,IT Support,Student,2024-01-07,Walk-in,High,Student Affairs,12,Yes,3,Completed,No,1.0,2.0
+REQ-1167,IT Support,Faculty,2024-01-07,Walk-in,Normal,Registrar,4,Yes,7,Completed,No,2.0,11.0
+REQ-1168,Records,Staff,2024-01-08,Email,High,Registrar,13,Yes,7,Completed,No,3.0,8.0
+REQ-1169,Scholarship Inquiry,Staff,2024-01-08,Walk-in,Low,Student Affairs,18,No,7,Completed,No,4.0,5.0
+REQ-1170,Records,Faculty,2024-01-08,Walk-in,Normal,Registrar,10,Yes,5,Cancelled,No,,
+REQ-1171,Certification,Faculty,2024-01-08,Email,Normal,IT Helpdesk,7,Yes,5,Completed,No,,4.0
+REQ-1172,Records,Faculty,2024-01-08,Portal,Normal,Cashier,13,Yes,7,Completed,No,2.0,6.0
+REQ-1173,Scholarship Inquiry,Student,2024-01-08,Walk-in,Normal,Registrar,9,Yes,5,Cancelled,No,4.0,
+REQ-1174,Records,Student,2024-01-08,Walk-in,Normal,Cashier,10,No,5,Completed,No,1.0,3.0
+REQ-1175,Records,Faculty,2024-01-08,Walk-in,Normal,Student Affairs,9,Yes,3,Completed,No,4.0,2.0
+REQ-1176,Certification,Student,2024-01-08,Portal,Normal,Cashier,8,Yes,5,Pending,No,1.0,
+REQ-1177,Scholarship Inquiry,Student,2024-01-08,Email,Normal,IT Helpdesk,19,Yes,5,Completed,No,1.0,3.0
+REQ-1178,Scholarship Inquiry,Student,2024-01-08,Walk-in,Low,Student Affairs,12,Yes,5,Completed,No,5.0,3.0
+REQ-1179,IT Support,Student,2024-01-08,Email,Low,IT Helpdesk,12,Yes,3,Completed,Yes,2.0,4.0
+REQ-1180,Scholarship Inquiry,Faculty,2024-01-08,Walk-in,Normal,Cashier,17,No,3,Cancelled,No,3.0,
+REQ-1181,Scholarship Inquiry,Staff,2024-01-08,Portal,Low,Student Affairs,9,Yes,7,Completed,No,1.0,6.0
+REQ-1182,Certification,Staff,2024-01-08,Portal,Low,Cashier,2,Yes,5,Completed,No,5.0,5.0
+REQ-1183,Records,Faculty,2024-01-08,Walk-in,Low,Registrar,23,Yes,5,Completed,No,5.0,3.0
+REQ-1184,IT Support,Faculty,2024-01-08,Email,Low,Registrar,1,Yes,5,Completed,No,4.0,3.0
+REQ-1185,Certification,Student,2024-01-08,Email,High,Registrar,15,No,5,Completed,Yes,,4.0
+REQ-1186,Records,Student,2024-01-08,Email,Normal,IT Helpdesk,7,Yes,7,Pending,No,3.0,
+REQ-1187,Records,Faculty,2024-01-08,Email,High,IT Helpdesk,5,Yes,3,Pending,No,2.0,
+REQ-1188,IT Support,Faculty,2024-01-08,Walk-in,Low,IT Helpdesk,1,Yes,7,Completed,No,1.0,7.0
+REQ-1189,Records,Student,2024-01-08,Portal,Normal,IT Helpdesk,24,Yes,3,Completed,No,2.0,1.0
+REQ-1190,Scholarship Inquiry,Faculty,2024-01-08,Walk-in,Normal,Cashier,11,No,5,Completed,Yes,2.0,6.0
+REQ-1191,Records,Student,2024-01-08,Walk-in,Normal,Student Affairs,9,Yes,5,Completed,No,2.0,4.0
+REQ-1192,Records,Student,2024-01-09,Email,High,Registrar,20,Yes,7,Completed,Yes,2.0,7.0
+REQ-1193,IT Support,Staff,2024-01-09,Email,High,Cashier,1,Yes,3,Completed,No,4.0,1.0
+REQ-1194,Records,Faculty,2024-01-09,Portal,High,Cashier,15,Yes,5,Completed,No,1.0,3.0
+REQ-1195,Records,Faculty,2024-01-09,Walk-in,Low,IT Helpdesk,13,Yes,3,Completed,No,4.0,2.0
+REQ-1196,Certification,Staff,2024-01-09,Email,Low,Registrar,14,Yes,3,Completed,No,3.0,2.0
+REQ-1197,IT Support,Staff,2024-01-09,Portal,Normal,Cashier,3,Yes,7,Completed,Yes,5.0,5.0
+REQ-1198,Records,Staff,2024-01-09,Email,Normal,Student Affairs,25,Yes,7,Completed,Yes,4.0,5.0
+REQ-1199,Records,Faculty,2024-01-09,Walk-in,Normal,Cashier,6,Yes,5,Cancelled,No,,
+REQ-1200,IT Support,Staff,2024-01-09,Portal,Normal,Student Affairs,18,Yes,5,Pending,No,3.0,
+REQ-1201,Scholarship Inquiry,Faculty,2024-01-09,Portal,Normal,Student Affairs,20,Yes,5,Cancelled,No,2.0,
+REQ-1202,Certification,Staff,2024-01-09,Walk-in,High,Registrar,9,Yes,3,Cancelled,No,4.0,
+REQ-1203,Records,Staff,2024-01-09,Portal,Normal,Cashier,3,No,5,Completed,No,4.0,5.0
+REQ-1204,Records,Faculty,2024-01-09,Walk-in,Low,IT Helpdesk,8,Yes,3,Cancelled,Yes,3.0,
+REQ-1205,Records,Staff,2024-01-09,Walk-in,Low,Student Affairs,21,Yes,7,Completed,No,4.0,7.0
+REQ-1206,Records,Faculty,2024-01-09,Walk-in,Normal,Registrar,24,Yes,5,Completed,No,3.0,7.0
+REQ-1207,Certification,Staff,2024-01-09,Walk-in,Normal,IT Helpdesk,25,Yes,3,Completed,No,2.0,2.0
+REQ-1208,Records,Student,2024-01-09,Portal,Normal,Student Affairs,6,Yes,5,Completed,No,2.0,10.0
+REQ-1209,Certification,Staff,2024-01-09,Portal,Normal,Registrar,16,Yes,7,Completed,No,,5.0
+REQ-1210,Certification,Faculty,2024-01-09,Email,Normal,Cashier,4,No,3,Completed,No,5.0,3.0
+REQ-1211,Certification,Staff,2024-01-09,Email,High,IT Helpdesk,19,Yes,7,Completed,No,1.0,6.0
+REQ-1212,Records,Faculty,2024-01-09,Walk-in,Normal,Student Affairs,11,Yes,5,Pending,No,,
+REQ-1213,IT Support,Staff,2024-01-09,Walk-in,Normal,Student Affairs,19,Yes,5,Completed,No,5.0,5.0
+REQ-1214,Certification,Student,2024-01-09,Email,Normal,Registrar,18,Yes,7,Completed,No,1.0,11.0
+REQ-1215,IT Support,Student,2024-01-09,Walk-in,Normal,Cashier,26,Yes,5,Pending,No,5.0,
+REQ-1216,Records,Faculty,2024-01-10,Email,Normal,Registrar,13,No,3,Completed,No,4.0,7.0
+REQ-1217,Records,Staff,2024-01-10,Email,Normal,IT Helpdesk,9,Yes,7,Completed,No,,6.0
+REQ-1218,Scholarship Inquiry,Staff,2024-01-10,Email,Normal,Cashier,14,Yes,3,Completed,No,3.0,1.0
+REQ-1219,Records,Faculty,2024-01-10,Email,Low,Student Affairs,4,Yes,5,Completed,No,4.0,3.0
+REQ-1220,Records,Faculty,2024-01-10,Portal,Low,Registrar,3,Yes,7,Completed,No,2.0,6.0
+REQ-1221,Certification,Faculty,2024-01-10,Walk-in,Low,Registrar,14,No,5,Pending,No,2.0,
+REQ-1222,Certification,Staff,2024-01-10,Email,High,Cashier,22,Yes,7,Pending,No,4.0,
+REQ-1223,Scholarship Inquiry,Faculty,2024-01-10,Walk-in,Normal,IT Helpdesk,14,Yes,5,Completed,No,5.0,10.0
+REQ-1224,Records,Faculty,2024-01-10,Email,Low,IT Helpdesk,21,Yes,3,Completed,No,,1.0
+REQ-1225,Scholarship Inquiry,Staff,2024-01-10,Walk-in,High,Registrar,4,Yes,3,Pending,No,5.0,
+REQ-1226,Records,Student,2024-01-10,Walk-in,Normal,Registrar,12,Yes,5,Completed,No,4.0,4.0
+REQ-1227,Certification,Staff,2024-01-10,Email,Normal,Student Affairs,16,Yes,3,Completed,No,4.0,1.0
+REQ-1228,Certification,Student,2024-01-10,Email,High,Registrar,9,Yes,5,Completed,No,3.0,5.0
+REQ-1229,Records,Student,2024-01-10,Portal,Low,IT Helpdesk,0,No,5,Completed,No,5.0,5.0
+REQ-1230,Records,Staff,2024-01-10,Walk-in,Low,Student Affairs,1,Yes,7,Completed,No,2.0,7.0
+REQ-1231,Records,Staff,2024-01-10,Walk-in,Normal,Registrar,25,Yes,3,Completed,No,2.0,1.0
+REQ-1232,Scholarship Inquiry,Staff,2024-01-10,Walk-in,Low,Cashier,16,Yes,7,Completed,No,,7.0
+REQ-1233,Certification,Staff,2024-01-10,Walk-in,Normal,Registrar,7,Yes,5,Completed,No,4.0,7.0
+REQ-1234,Scholarship Inquiry,Faculty,2024-01-10,Walk-in,Low,Student Affairs,6,No,5,Completed,No,3.0,3.0
+REQ-1235,IT Support,Faculty,2024-01-10,Walk-in,Low,Cashier,1,Yes,5,Completed,No,,3.0
+REQ-1236,Certification,Student,2024-01-10,Email,Low,Student Affairs,25,Yes,3,Cancelled,No,,
+REQ-1237,IT Support,Student,2024-01-10,Portal,Normal,Registrar,2,No,7,Completed,No,2.0,10.0
+REQ-1238,Records,Student,2024-01-10,Portal,Low,IT Helpdesk,20,Yes,3,Completed,No,4.0,2.0
+REQ-1239,Records,Student,2024-01-10,Portal,Low,Cashier,6,Yes,3,Completed,No,3.0,2.0
+REQ-1240,IT Support,Faculty,2024-01-11,Email,High,Registrar,9,No,7,Pending,No,5.0,
+REQ-1241,IT Support,Staff,2024-01-11,Walk-in,Normal,Registrar,7,Yes,5,Completed,No,,4.0
+REQ-1242,Records,Staff,2024-01-11,Email,Normal,Registrar,22,Yes,7,Cancelled,No,4.0,
+REQ-1243,Certification,Faculty,2024-01-11,Portal,Low,Student Affairs,0,No,5,Completed,No,5.0,7.0
+REQ-1244,Certification,Staff,2024-01-11,Portal,Normal,Cashier,9,No,3,Completed,Yes,4.0,6.0
+REQ-1245,IT Support,Staff,2024-01-11,Walk-in,Normal,Cashier,7,Yes,3,Completed,No,,2.0
+REQ-1246,Certification,Staff,2024-01-11,Walk-in,Normal,Cashier,7,Yes,5,Completed,No,3.0,5.0
+REQ-1247,Records,Faculty,2024-01-11,Email,Low,IT Helpdesk,5,Yes,3,Pending,No,3.0,
+REQ-1248,Records,Student,2024-01-11,Walk-in,High,IT Helpdesk,24,No,7,Pending,No,3.0,
+REQ-1249,Certification,Staff,2024-01-11,Walk-in,High,IT Helpdesk,10,Yes,3,Completed,No,,2.0
+REQ-1250,Certification,Student,2024-01-11,Walk-in,Low,Cashier,11,Yes,7,Cancelled,Yes,4.0,
+REQ-1251,IT Support,Faculty,2024-01-11,Walk-in,Low,Registrar,10,Yes,3,Completed,No,1.0,3.0
+REQ-1252,Certification,Student,2024-01-11,Email,Low,Student Affairs,26,No,3,Completed,No,1.0,2.0
+REQ-1253,Records,Staff,2024-01-11,Email,Normal,Student Affairs,9,No,3,Completed,No,4.0,2.0
+REQ-1254,Records,Faculty,2024-01-11,Email,Low,Registrar,9,Yes,3,Completed,No,5.0,6.0
+REQ-1255,IT Support,Student,2024-01-11,Portal,High,IT Helpdesk,8,Yes,5,Pending,No,3.0,
+REQ-1256,IT Support,Student,2024-01-11,Email,Normal,Registrar,8,No,3,Completed,No,4.0,5.0
+REQ-1257,Records,Faculty,2024-01-11,Email,High,Student Affairs,2,No,5,Completed,No,5.0,7.0
+REQ-1258,Records,Faculty,2024-01-11,Email,Normal,Student Affairs,16,Yes,5,Completed,No,4.0,4.0
+REQ-1259,Certification,Staff,2024-01-11,Email,High,Student Affairs,0,Yes,3,Completed,No,,1.0
+REQ-1260,Records,Student,2024-01-11,Email,Low,Registrar,6,Yes,3,Completed,No,4.0,3.0
+REQ-1261,IT Support,Staff,2024-01-11,Email,Normal,Registrar,5,Yes,3,Completed,No,5.0,3.0
+REQ-1262,Records,Faculty,2024-01-11,Portal,Normal,Registrar,7,Yes,3,Completed,Yes,5.0,1.0
+REQ-1263,Records,Staff,2024-01-11,Email,High,Registrar,20,Yes,3,Completed,No,4.0,6.0
+REQ-1264,Scholarship Inquiry,Student,2024-01-12,Email,Normal,Registrar,16,Yes,3,Completed,Yes,1.0,7.0
+REQ-1265,Records,Student,2024-01-12,Walk-in,High,Registrar,26,No,5,Completed,No,3.0,9.0
+REQ-1266,Records,Student,2024-01-12,Email,Low,Student Affairs,9,Yes,3,Completed,No,1.0,3.0
+REQ-1267,Records,Faculty,2024-01-12,Email,High,Registrar,25,Yes,3,Pending,No,4.0,
+REQ-1268,Records,Staff,2024-01-12,Portal,Normal,Registrar,1,Yes,5,Cancelled,No,1.0,
+REQ-1269,Records,Student,2024-01-12,Portal,Normal,Student Affairs,13,Yes,5,Completed,No,4.0,3.0
+REQ-1270,Records,Faculty,2024-01-12,Email,High,IT Helpdesk,21,Yes,3,Cancelled,No,3.0,
+REQ-1271,Records,Student,2024-01-12,Email,Normal,Cashier,14,Yes,3,Completed,No,1.0,2.0
+REQ-1272,Records,Staff,2024-01-12,Email,Normal,Cashier,25,Yes,5,Completed,No,1.0,4.0
+REQ-1273,Certification,Staff,2024-01-12,Email,Normal,Student Affairs,8,Yes,3,Completed,No,4.0,3.0
+REQ-1274,Certification,Staff,2024-01-12,Walk-in,Low,Cashier,0,No,5,Completed,No,1.0,5.0
+REQ-1275,Records,Staff,2024-01-12,Portal,Normal,IT Helpdesk,20,Yes,7,Pending,No,,
+REQ-1276,Records,Faculty,2024-01-12,Portal,Low,Cashier,1,No,5,Completed,No,5.0,3.0
+REQ-1277,Certification,Staff,2024-01-12,Portal,Low,IT Helpdesk,20,No,3,Completed,Yes,5.0,3.0
+REQ-1278,IT Support,Student,2024-01-12,Portal,High,Registrar,19,No,7,Completed,No,2.0,11.0
+REQ-1279,IT Support,Staff,2024-01-12,Walk-in,Normal,IT Helpdesk,22,Yes,3,Completed,No,5.0,1.0
+REQ-1280,Records,Staff,2024-01-12,Portal,Normal,Registrar,12,Yes,3,Completed,Yes,4.0,1.0
+REQ-1281,Records,Staff,2024-01-12,Email,Normal,Cashier,24,Yes,3,Completed,No,3.0,2.0
+REQ-1282,Records,Faculty,2024-01-12,Portal,Normal,Registrar,4,Yes,7,Completed,No,1.0,7.0
+REQ-1283,Records,Staff,2024-01-12,Walk-in,Normal,Registrar,11,Yes,7,Completed,No,4.0,6.0
+REQ-1284,Certification,Faculty,2024-01-12,Walk-in,High,Registrar,3,No,5,Completed,No,5.0,4.0
+REQ-1285,Records,Student,2024-01-12,Portal,High,Student Affairs,20,Yes,5,Completed,No,1.0,8.0
+REQ-1286,Records,Staff,2024-01-12,Portal,Normal,Registrar,19,No,5,Completed,No,1.0,3.0
+REQ-1287,Records,Student,2024-01-12,Portal,Normal,Cashier,21,Yes,5,Completed,No,3.0,3.0
+REQ-1288,Certification,Student,2024-01-13,Email,Normal,Student Affairs,20,Yes,5,Completed,No,4.0,5.0
+REQ-1289,Records,Faculty,2024-01-13,Walk-in,Normal,Registrar,8,Yes,7,Completed,No,3.0,7.0
+REQ-1290,IT Support,Student,2024-01-13,Email,Normal,Cashier,1,Yes,7,Completed,No,3.0,9.0
+REQ-1291,Records,Staff,2024-01-13,Walk-in,Normal,Registrar,25,Yes,3,Pending,No,2.0,
+REQ-1292,Scholarship Inquiry,Faculty,2024-01-13,Email,Normal,Registrar,13,Yes,5,Completed,Yes,1.0,5.0
+REQ-1293,Records,Student,2024-01-13,Portal,Normal,Cashier,2,Yes,7,Completed,No,1.0,5.0
+REQ-1294,IT Support,Staff,2024-01-13,Email,Normal,Student Affairs,25,Yes,5,Completed,No,1.0,3.0
+REQ-1295,Scholarship Inquiry,Faculty,2024-01-13,Portal,Normal,Registrar,26,Yes,3,Cancelled,No,5.0,
+REQ-1296,Scholarship Inquiry,Student,2024-01-13,Walk-in,Low,IT Helpdesk,12,No,7,Pending,No,5.0,
+REQ-1297,IT Support,Staff,2024-01-13,Portal,Low,Registrar,20,Yes,5,Completed,No,3.0,10.0
+REQ-1298,IT Support,Faculty,2024-01-13,Email,Normal,IT Helpdesk,0,Yes,5,Completed,No,1.0,3.0
+REQ-1299,Certification,Student,2024-01-13,Email,Normal,IT Helpdesk,2,Yes,5,Completed,No,3.0,5.0
+REQ-1300,IT Support,Staff,2024-01-13,Portal,Low,IT Helpdesk,7,Yes,3,Cancelled,Yes,,
+REQ-1301,Records,Faculty,2024-01-13,Email,Normal,IT Helpdesk,17,Yes,5,Completed,No,2.0,4.0
+REQ-1302,Certification,Staff,2024-01-13,Email,Normal,Registrar,3,Yes,5,Completed,No,3.0,9.0
+REQ-1303,Certification,Staff,2024-01-13,Portal,Normal,Cashier,0,No,7,Cancelled,No,4.0,
+REQ-1304,IT Support,Faculty,2024-01-13,Portal,High,Cashier,18,Yes,3,Completed,Yes,2.0,1.0
+REQ-1305,Certification,Staff,2024-01-13,Portal,High,Cashier,20,Yes,3,Completed,No,3.0,2.0
+REQ-1306,Records,Student,2024-01-13,Portal,Normal,Registrar,19,Yes,5,Completed,No,3.0,4.0
+REQ-1307,Certification,Student,2024-01-13,Email,Normal,IT Helpdesk,21,Yes,7,Completed,No,3.0,7.0
+REQ-1308,Records,Faculty,2024-01-13,Portal,Low,IT Helpdesk,21,Yes,5,Completed,No,5.0,6.0
+REQ-1309,Records,Staff,2024-01-13,Walk-in,High,Registrar,16,Yes,5,Completed,No,4.0,5.0
+REQ-1310,Certification,Faculty,2024-01-13,Portal,Normal,Registrar,14,Yes,7,Cancelled,No,1.0,
+REQ-1311,Records,Faculty,2024-01-13,Email,High,IT Helpdesk,23,Yes,5,Cancelled,No,1.0,
+REQ-1312,Records,Staff,2024-01-14,Walk-in,Normal,Cashier,9,Yes,3,Completed,No,3.0,2.0
+REQ-1313,Records,Staff,2024-01-14,Email,Low,Registrar,2,Yes,7,Completed,Yes,,7.0
+REQ-1314,Records,Staff,2024-01-14,Walk-in,Low,Student Affairs,20,Yes,5,Completed,No,1.0,8.0
+REQ-1315,Records,Student,2024-01-14,Portal,Normal,IT Helpdesk,7,Yes,3,Completed,No,1.0,2.0
+REQ-1316,Records,Staff,2024-01-14,Portal,Normal,Cashier,26,Yes,5,Pending,No,5.0,
+REQ-1317,Certification,Faculty,2024-01-14,Portal,Low,IT Helpdesk,11,Yes,7,Completed,No,3.0,11.0
+REQ-1318,Records,Faculty,2024-01-14,Portal,Normal,IT Helpdesk,22,Yes,5,Completed,No,2.0,5.0
+REQ-1319,Scholarship Inquiry,Faculty,2024-01-14,Portal,High,IT Helpdesk,1,No,5,Completed,No,2.0,5.0
+REQ-1320,Scholarship Inquiry,Student,2024-01-14,Portal,Normal,Student Affairs,17,Yes,5,Completed,No,4.0,3.0
+REQ-1321,Certification,Student,2024-01-14,Walk-in,Normal,IT Helpdesk,12,Yes,7,Completed,No,4.0,5.0
+REQ-1322,Records,Faculty,2024-01-14,Portal,Low,IT Helpdesk,12,Yes,7,Completed,No,4.0,9.0
+REQ-1323,Certification,Staff,2024-01-14,Walk-in,Normal,IT Helpdesk,7,No,3,Pending,Yes,2.0,
+REQ-1324,IT Support,Staff,2024-01-14,Walk-in,Normal,Cashier,26,Yes,5,Completed,No,4.0,4.0
+REQ-1325,Certification,Student,2024-01-14,Walk-in,High,Registrar,10,Yes,5,Pending,No,,
+REQ-1326,IT Support,Staff,2024-01-14,Portal,Normal,IT Helpdesk,22,Yes,3,Completed,No,2.0,1.0
+REQ-1327,Certification,Student,2024-01-14,Walk-in,Normal,IT Helpdesk,11,No,7,Pending,No,3.0,
+REQ-1328,Certification,Staff,2024-01-14,Email,Normal,Student Affairs,1,Yes,3,Completed,No,1.0,2.0
+REQ-1329,Records,Faculty,2024-01-14,Walk-in,Low,IT Helpdesk,23,No,5,Completed,No,4.0,7.0
+REQ-1330,IT Support,Faculty,2024-01-14,Email,Normal,IT Helpdesk,4,Yes,3,Cancelled,No,1.0,
+REQ-1331,Records,Staff,2024-01-14,Walk-in,Normal,Student Affairs,7,No,3,Completed,No,2.0,1.0
+REQ-1332,Certification,Faculty,2024-01-14,Email,Normal,IT Helpdesk,23,Yes,7,Completed,No,5.0,6.0
+REQ-1333,IT Support,Staff,2024-01-14,Portal,High,Registrar,24,Yes,3,Completed,No,1.0,2.0
+REQ-1334,Records,Faculty,2024-01-14,Email,High,Registrar,24,Yes,3,Completed,No,,3.0
+REQ-1335,Certification,Staff,2024-01-14,Portal,High,Registrar,11,Yes,7,Completed,No,3.0,5.0
+REQ-1336,Records,Faculty,2024-01-15,Walk-in,Low,Registrar,20,Yes,7,Completed,No,3.0,7.0
+REQ-1337,IT Support,Student,2024-01-15,Portal,Normal,IT Helpdesk,8,Yes,3,Pending,Yes,4.0,
+REQ-1338,Records,Staff,2024-01-15,Portal,High,Cashier,19,Yes,3,Completed,No,4.0,1.0
+REQ-1339,Scholarship Inquiry,Faculty,2024-01-15,Email,Normal,Cashier,13,Yes,7,Completed,No,3.0,7.0
+REQ-1340,Records,Faculty,2024-01-15,Email,Low,Registrar,1,Yes,7,Completed,No,,12.0
+REQ-1341,Scholarship Inquiry,Student,2024-01-15,Portal,High,IT Helpdesk,11,No,7,Pending,No,,
+REQ-1342,IT Support,Student,2024-01-15,Walk-in,Normal,Registrar,12,Yes,5,Completed,No,2.0,3.0
+REQ-1343,Certification,Faculty,2024-01-15,Walk-in,Normal,Student Affairs,6,Yes,3,Completed,No,5.0,2.0
+REQ-1344,IT Support,Student,2024-01-15,Walk-in,High,Registrar,10,Yes,7,Completed,No,2.0,11.0
+REQ-1345,IT Support,Staff,2024-01-15,Email,Normal,IT Helpdesk,13,No,3,Completed,No,,1.0
+REQ-1346,Scholarship Inquiry,Staff,2024-01-15,Email,Normal,Registrar,1,Yes,3,Pending,No,2.0,
+REQ-1347,Records,Staff,2024-01-15,Email,Normal,Cashier,4,Yes,7,Completed,No,2.0,7.0
+REQ-1348,Certification,Staff,2024-01-15,Email,Normal,IT Helpdesk,20,No,5,Pending,No,5.0,
+REQ-1349,Records,Faculty,2024-01-15,Portal,Low,Cashier,9,No,3,Completed,No,5.0,6.0
+REQ-1350,Certification,Student,2024-01-15,Portal,Normal,Registrar,16,Yes,3,Completed,No,1.0,1.0
+REQ-1351,Records,Faculty,2024-01-15,Portal,High,Student Affairs,15,Yes,5,Completed,No,4.0,5.0
+REQ-1352,Certification,Faculty,2024-01-15,Email,Normal,IT Helpdesk,14,Yes,3,Completed,No,3.0,3.0
+REQ-1353,Certification,Staff,2024-01-15,Portal,Normal,Cashier,11,Yes,7,Completed,No,4.0,7.0
+REQ-1354,Certification,Student,2024-01-15,Portal,High,Student Affairs,13,Yes,5,Completed,No,4.0,4.0
+REQ-1355,Certification,Faculty,2024-01-15,Walk-in,Low,Student Affairs,22,Yes,5,Completed,No,,5.0
+REQ-1356,IT Support,Faculty,2024-01-15,Email,Normal,Registrar,26,Yes,5,Completed,No,,5.0
+REQ-1357,IT Support,Student,2024-01-15,Email,Normal,Registrar,6,Yes,5,Completed,No,4.0,9.0
+REQ-1358,Certification,Student,2024-01-15,Email,Normal,Registrar,18,Yes,5,Completed,No,5.0,7.0
+REQ-1359,Certification,Faculty,2024-01-15,Walk-in,Low,Registrar,26,Yes,7,Completed,Yes,,6.0
+REQ-1360,Scholarship Inquiry,Student,2024-01-16,Walk-in,Normal,IT Helpdesk,0,No,5,Completed,No,2.0,4.0
+REQ-1361,Records,Student,2024-01-16,Portal,Normal,Student Affairs,21,No,5,Completed,Yes,5.0,9.0
+REQ-1362,Records,Faculty,2024-01-16,Walk-in,Normal,Student Affairs,13,Yes,5,Completed,No,5.0,4.0
+REQ-1363,Records,Student,2024-01-16,Email,Low,IT Helpdesk,26,Yes,3,Completed,No,1.0,2.0
+REQ-1364,Certification,Faculty,2024-01-16,Walk-in,Normal,Cashier,15,Yes,7,Completed,No,,6.0
+REQ-1365,Records,Student,2024-01-16,Email,Normal,Student Affairs,22,Yes,5,Completed,No,5.0,5.0
+REQ-1366,IT Support,Student,2024-01-16,Portal,Low,Student Affairs,4,Yes,7,Completed,No,3.0,9.0
+REQ-1367,Certification,Faculty,2024-01-16,Walk-in,Low,Registrar,3,No,7,Completed,No,3.0,9.0
+REQ-1368,Records,Staff,2024-01-16,Portal,Low,IT Helpdesk,25,No,7,Completed,No,3.0,6.0
+REQ-1369,Scholarship Inquiry,Faculty,2024-01-16,Walk-in,Normal,Student Affairs,14,No,7,Completed,No,,7.0
+REQ-1370,IT Support,Staff,2024-01-16,Portal,Low,Registrar,15,No,7,Pending,No,,
+REQ-1371,Records,Faculty,2024-01-16,Portal,High,IT Helpdesk,4,No,5,Completed,No,5.0,3.0
+REQ-1372,Records,Faculty,2024-01-16,Email,Normal,Student Affairs,6,Yes,7,Pending,No,4.0,
+REQ-1373,Records,Faculty,2024-01-16,Walk-in,High,Student Affairs,22,No,3,Completed,No,1.0,3.0
+REQ-1374,Records,Staff,2024-01-16,Email,High,Student Affairs,8,Yes,7,Completed,No,,5.0
+REQ-1375,Records,Staff,2024-01-16,Portal,Low,Cashier,15,Yes,3,Completed,No,1.0,2.0
+REQ-1376,Scholarship Inquiry,Staff,2024-01-16,Portal,Normal,Registrar,8,Yes,7,Completed,Yes,2.0,6.0
+REQ-1377,Certification,Staff,2024-01-16,Walk-in,High,Registrar,7,Yes,3,Cancelled,No,1.0,
+REQ-1378,Records,Faculty,2024-01-16,Walk-in,Normal,IT Helpdesk,4,Yes,5,Completed,Yes,,5.0
+REQ-1379,IT Support,Faculty,2024-01-16,Portal,Normal,IT Helpdesk,25,Yes,3,Cancelled,No,3.0,
+REQ-1380,Certification,Staff,2024-01-16,Email,Normal,IT Helpdesk,25,Yes,3,Completed,No,2.0,1.0
+REQ-1381,Scholarship Inquiry,Student,2024-01-16,Portal,Low,Cashier,3,Yes,7,Pending,No,1.0,
+REQ-1382,IT Support,Faculty,2024-01-16,Portal,Normal,IT Helpdesk,9,No,7,Cancelled,No,3.0,
+REQ-1383,Certification,Staff,2024-01-16,Walk-in,High,Cashier,15,Yes,3,Completed,No,5.0,1.0
+REQ-1384,Records,Faculty,2024-01-17,Email,High,Registrar,10,Yes,3,Completed,No,,1.0
+REQ-1385,Scholarship Inquiry,Student,2024-01-17,Portal,Low,Registrar,19,Yes,7,Completed,Yes,4.0,10.0
+REQ-1386,Certification,Faculty,2024-01-17,Email,Normal,Registrar,7,Yes,7,Completed,No,4.0,7.0
+REQ-1387,Scholarship Inquiry,Student,2024-01-17,Email,Normal,Registrar,1,Yes,3,Cancelled,No,,
+REQ-1388,Records,Staff,2024-01-17,Portal,High,Student Affairs,9,No,5,Completed,No,,10.0
+REQ-1389,IT Support,Staff,2024-01-17,Email,Low,IT Helpdesk,16,Yes,3,Completed,No,2.0,1.0
+REQ-1390,Certification,Student,2024-01-17,Portal,High,Registrar,4,Yes,7,Completed,No,,10.0
+REQ-1391,Records,Faculty,2024-01-17,Portal,High,Cashier,22,Yes,5,Completed,No,4.0,10.0
+REQ-1392,Certification,Staff,2024-01-17,Walk-in,Low,IT Helpdesk,0,Yes,3,Cancelled,No,,
+REQ-1393,Certification,Staff,2024-01-17,Walk-in,Low,Registrar,1,No,3,Completed,No,1.0,6.0
+REQ-1394,Records,Student,2024-01-17,Portal,High,Registrar,13,Yes,5,Pending,No,1.0,
+REQ-1395,Certification,Faculty,2024-01-17,Walk-in,Low,Registrar,13,No,7,Cancelled,No,,
+REQ-1396,IT Support,Faculty,2024-01-17,Email,Normal,Cashier,7,Yes,3,Completed,No,5.0,1.0
+REQ-1397,Records,Faculty,2024-01-17,Walk-in,High,Registrar,6,No,7,Completed,No,2.0,11.0
+REQ-1398,Certification,Student,2024-01-17,Walk-in,Normal,Registrar,1,Yes,5,Completed,No,,5.0
+REQ-1399,Certification,Student,2024-01-17,Email,Normal,Registrar,17,No,7,Completed,No,1.0,11.0
+REQ-1400,Records,Staff,2024-01-17,Email,Normal,IT Helpdesk,10,No,7,Completed,No,5.0,5.0
+REQ-1401,Scholarship Inquiry,Student,2024-01-17,Email,Low,Registrar,3,Yes,3,Pending,No,2.0,
+REQ-1402,IT Support,Student,2024-01-17,Walk-in,High,Student Affairs,10,No,3,Completed,No,1.0,5.0
+REQ-1403,Records,Student,2024-01-17,Portal,Normal,Registrar,25,Yes,7,Pending,No,5.0,
+REQ-1404,Scholarship Inquiry,Student,2024-01-17,Portal,Low,IT Helpdesk,7,Yes,3,Pending,No,,
+REQ-1405,IT Support,Student,2024-01-17,Portal,Normal,IT Helpdesk,24,No,3,Pending,No,1.0,
+REQ-1406,Records,Faculty,2024-01-17,Portal,High,IT Helpdesk,6,Yes,5,Completed,No,1.0,5.0
+REQ-1407,IT Support,Staff,2024-01-17,Portal,Low,Registrar,5,Yes,7,Completed,No,4.0,12.0
+REQ-1408,Records,Student,2024-01-18,Portal,High,Cashier,7,Yes,7,Completed,No,1.0,6.0
+REQ-1409,Scholarship Inquiry,Student,2024-01-18,Walk-in,Normal,Student Affairs,8,Yes,5,Completed,No,5.0,5.0
+REQ-1410,Certification,Student,2024-01-18,Portal,High,Registrar,3,No,3,Completed,No,,2.0
+REQ-1411,Certification,Faculty,2024-01-18,Walk-in,High,Registrar,15,Yes,5,Completed,No,5.0,5.0
+REQ-1412,Records,Student,2024-01-18,Portal,High,Student Affairs,9,Yes,7,Completed,No,2.0,5.0
+REQ-1413,Scholarship Inquiry,Staff,2024-01-18,Walk-in,High,IT Helpdesk,19,Yes,3,Completed,No,2.0,8.0
+REQ-1414,Records,Faculty,2024-01-18,Portal,Low,Registrar,13,Yes,5,Completed,No,5.0,4.0
+REQ-1415,Records,Staff,2024-01-18,Email,Normal,Registrar,11,No,3,Completed,No,1.0,5.0
+REQ-1416,Records,Faculty,2024-01-18,Portal,Normal,Cashier,12,No,3,Completed,No,4.0,3.0
+REQ-1417,IT Support,Faculty,2024-01-18,Email,Normal,Cashier,4,Yes,3,Pending,No,3.0,
+REQ-1418,Records,Staff,2024-01-18,Email,High,IT Helpdesk,19,Yes,7,Completed,No,5.0,5.0
+REQ-1419,Scholarship Inquiry,Faculty,2024-01-18,Email,High,Student Affairs,2,Yes,7,Pending,No,2.0,
+REQ-1420,Certification,Staff,2024-01-18,Email,Normal,IT Helpdesk,19,Yes,3,Pending,No,5.0,
+REQ-1421,Records,Staff,2024-01-18,Email,Normal,Registrar,26,Yes,7,Completed,No,5.0,6.0
+REQ-1422,Records,Faculty,2024-01-18,Walk-in,Normal,IT Helpdesk,20,Yes,5,Completed,No,2.0,9.0
+REQ-1423,Records,Staff,2024-01-18,Email,Normal,Registrar,12,Yes,7,Completed,No,3.0,7.0
+REQ-1424,Certification,Student,2024-01-18,Email,Normal,Registrar,8,Yes,7,Completed,No,1.0,7.0
+REQ-1425,IT Support,Staff,2024-01-18,Portal,Normal,Registrar,23,Yes,3,Completed,No,3.0,6.0
+REQ-1426,Records,Staff,2024-01-18,Email,Low,Registrar,6,Yes,7,Completed,No,2.0,10.0
+REQ-1427,IT Support,Staff,2024-01-18,Portal,Low,Cashier,13,No,5,Pending,No,1.0,
+REQ-1428,Records,Student,2024-01-18,Portal,Normal,Registrar,20,Yes,3,Cancelled,No,4.0,
+REQ-1429,IT Support,Staff,2024-01-18,Walk-in,Normal,IT Helpdesk,24,Yes,3,Pending,No,4.0,
+REQ-1430,Scholarship Inquiry,Faculty,2024-01-18,Portal,High,Cashier,24,No,7,Completed,No,1.0,6.0
+REQ-1431,IT Support,Student,2024-01-18,Email,Normal,IT Helpdesk,2,No,5,Completed,No,2.0,6.0
+REQ-1432,Certification,Student,2024-01-19,Walk-in,Low,Cashier,24,Yes,5,Cancelled,No,1.0,
+REQ-1433,IT Support,Faculty,2024-01-19,Walk-in,Low,Student Affairs,3,Yes,3,Completed,Yes,5.0,2.0
+REQ-1434,Records,Student,2024-01-19,Portal,Low,Cashier,15,Yes,7,Completed,No,3.0,6.0
+REQ-1435,Records,Student,2024-01-19,Portal,High,Registrar,25,Yes,3,Completed,No,1.0,3.0
+REQ-1436,Records,Faculty,2024-01-19,Email,Low,IT Helpdesk,17,Yes,3,Completed,No,2.0,2.0
+REQ-1437,Certification,Faculty,2024-01-19,Email,Normal,IT Helpdesk,25,Yes,5,Completed,No,,5.0
+REQ-1438,IT Support,Student,2024-01-19,Walk-in,High,Registrar,9,Yes,7,Completed,No,2.0,7.0
+REQ-1439,Certification,Staff,2024-01-19,Portal,High,Registrar,8,Yes,3,Completed,Yes,5.0,3.0
+REQ-1440,IT Support,Staff,2024-01-19,Portal,Low,Registrar,8,No,3,Completed,Yes,3.0,6.0
+REQ-1441,Records,Faculty,2024-01-19,Portal,Low,IT Helpdesk,9,Yes,5,Completed,No,2.0,5.0
+REQ-1442,IT Support,Staff,2024-01-19,Walk-in,Low,IT Helpdesk,18,No,3,Completed,No,2.0,2.0
+REQ-1443,Records,Faculty,2024-01-19,Portal,Low,Registrar,12,No,5,Completed,No,1.0,4.0
+REQ-1444,Records,Student,2024-01-19,Email,Low,Student Affairs,19,No,3,Pending,No,5.0,
+REQ-1445,Certification,Student,2024-01-19,Portal,Normal,Student Affairs,11,Yes,3,Completed,No,3.0,3.0
+REQ-1446,Scholarship Inquiry,Staff,2024-01-19,Portal,High,Registrar,8,No,3,Completed,No,3.0,7.0
+REQ-1447,Certification,Staff,2024-01-19,Walk-in,Normal,Student Affairs,5,Yes,7,Pending,Yes,1.0,
+REQ-1448,Records,Staff,2024-01-19,Portal,Normal,Registrar,14,Yes,7,Completed,No,5.0,6.0
+REQ-1449,Certification,Student,2024-01-19,Portal,Low,Student Affairs,24,No,5,Pending,No,2.0,
+REQ-1450,Records,Student,2024-01-19,Walk-in,High,Student Affairs,23,Yes,5,Completed,No,4.0,3.0
+REQ-1451,Scholarship Inquiry,Student,2024-01-19,Email,Normal,Registrar,6,Yes,7,Completed,No,,6.0
+REQ-1452,Certification,Student,2024-01-19,Portal,High,Cashier,12,Yes,3,Completed,No,5.0,1.0
+REQ-1453,Records,Student,2024-01-19,Email,High,Student Affairs,19,No,5,Completed,No,4.0,5.0
+REQ-1454,Records,Faculty,2024-01-19,Walk-in,Normal,Student Affairs,16,Yes,7,Cancelled,Yes,,
+REQ-1455,Records,Student,2024-01-19,Email,Low,Student Affairs,1,Yes,7,Pending,No,2.0,
+REQ-1456,Scholarship Inquiry,Staff,2024-01-20,Email,Low,IT Helpdesk,15,No,3,Cancelled,No,,
+REQ-1457,Certification,Faculty,2024-01-20,Email,Normal,Registrar,1,Yes,7,Pending,No,4.0,
+REQ-1458,IT Support,Student,2024-01-20,Email,High,Student Affairs,3,Yes,5,Completed,No,3.0,5.0
+REQ-1459,Certification,Faculty,2024-01-20,Portal,Normal,IT Helpdesk,17,Yes,7,Pending,No,2.0,
+REQ-1460,Certification,Staff,2024-01-20,Walk-in,Normal,IT Helpdesk,2,No,3,Completed,No,5.0,1.0
+REQ-1461,Records,Student,2024-01-20,Walk-in,Normal,IT Helpdesk,9,Yes,5,Pending,No,,
+REQ-1462,Scholarship Inquiry,Student,2024-01-20,Portal,Low,IT Helpdesk,15,Yes,7,Completed,No,5.0,7.0
+REQ-1463,Records,Student,2024-01-20,Walk-in,Normal,Registrar,17,Yes,3,Completed,No,1.0,1.0
+REQ-1464,Certification,Staff,2024-01-20,Walk-in,Normal,Cashier,12,No,7,Pending,No,3.0,
+REQ-1465,Certification,Student,2024-01-20,Walk-in,Normal,Registrar,2,Yes,3,Pending,Yes,5.0,
+REQ-1466,Certification,Faculty,2024-01-20,Email,Normal,Cashier,21,Yes,7,Completed,No,3.0,7.0
+REQ-1467,Scholarship Inquiry,Faculty,2024-01-20,Email,Low,Student Affairs,25,No,5,Completed,No,5.0,4.0
+REQ-1468,Records,Staff,2024-01-20,Walk-in,Normal,IT Helpdesk,23,Yes,3,Completed,No,5.0,1.0
+REQ-1469,Certification,Student,2024-01-20,Portal,Low,IT Helpdesk,20,Yes,3,Cancelled,No,1.0,
+REQ-1470,Records,Staff,2024-01-20,Walk-in,High,Registrar,10,Yes,7,Completed,No,4.0,6.0
+REQ-1471,Certification,Staff,2024-01-20,Walk-in,Low,Student Affairs,23,No,3,Completed,No,2.0,2.0
+REQ-1472,Records,Faculty,2024-01-20,Walk-in,Low,Cashier,13,Yes,5,Completed,No,3.0,3.0
+REQ-1473,Records,Student,2024-01-20,Email,Normal,Registrar,3,Yes,3,Completed,No,3.0,3.0
+REQ-1474,Records,Staff,2024-01-20,Email,Normal,Registrar,22,Yes,7,Completed,Yes,5.0,10.0
+REQ-1475,Records,Student,2024-01-20,Portal,Normal,Registrar,8,Yes,5,Completed,No,,5.0
+REQ-1476,Certification,Faculty,2024-01-20,Walk-in,Normal,IT Helpdesk,25,No,7,Pending,Yes,3.0,
+REQ-1477,Certification,Faculty,2024-01-20,Email,High,Student Affairs,9,Yes,3,Pending,No,4.0,
+REQ-1478,Certification,Student,2024-01-20,Portal,Normal,Cashier,23,Yes,3,Cancelled,No,4.0,
+REQ-1479,Records,Faculty,2024-01-20,Walk-in,Normal,Registrar,14,No,5,Completed,No,4.0,6.0
+REQ-1480,Records,Student,2024-01-21,Email,Normal,Student Affairs,12,Yes,5,Completed,Yes,4.0,5.0
+REQ-1481,Records,Student,2024-01-21,Email,Low,Registrar,8,Yes,7,Completed,No,5.0,7.0
+REQ-1482,Certification,Student,2024-01-21,Portal,Normal,Student Affairs,22,Yes,7,Pending,No,,
+REQ-1483,Records,Student,2024-01-21,Walk-in,Low,Registrar,1,Yes,7,Completed,No,5.0,12.0
+REQ-1484,Records,Faculty,2024-01-21,Email,Normal,IT Helpdesk,12,Yes,3,Completed,No,1.0,3.0
+REQ-1485,Records,Staff,2024-01-21,Walk-in,Low,Student Affairs,9,Yes,3,Pending,Yes,3.0,
+REQ-1486,Certification,Student,2024-01-21,Walk-in,High,Registrar,14,Yes,7,Completed,No,3.0,5.0
+REQ-1487,Records,Student,2024-01-21,Portal,Normal,Cashier,6,Yes,5,Pending,No,4.0,
+REQ-1488,Certification,Student,2024-01-21,Portal,High,Student Affairs,17,Yes,7,Completed,No,4.0,5.0
+REQ-1489,Certification,Faculty,2024-01-21,Walk-in,Normal,Registrar,10,Yes,5,Completed,No,5.0,4.0
+REQ-1490,Certification,Student,2024-01-21,Email,Low,Registrar,5,Yes,3,Completed,No,3.0,5.0
+REQ-1491,Certification,Faculty,2024-01-21,Email,High,Cashier,5,No,5,Completed,No,2.0,7.0
+REQ-1492,Certification,Student,2024-01-21,Portal,Normal,Registrar,18,Yes,7,Pending,Yes,3.0,
+REQ-1493,Records,Student,2024-01-21,Email,Normal,Registrar,7,Yes,5,Completed,No,,4.0
+REQ-1494,IT Support,Faculty,2024-01-21,Walk-in,Normal,IT Helpdesk,8,Yes,3,Completed,No,2.0,8.0
+REQ-1495,Certification,Faculty,2024-01-21,Portal,Normal,Cashier,16,No,3,Pending,Yes,1.0,
+REQ-1496,Certification,Faculty,2024-01-21,Email,High,Registrar,8,Yes,7,Completed,Yes,,6.0
+REQ-1497,Certification,Staff,2024-01-21,Walk-in,Normal,Registrar,10,Yes,7,Pending,No,2.0,
+REQ-1498,Records,Faculty,2024-01-21,Portal,Normal,Student Affairs,6,Yes,7,Completed,No,4.0,5.0
+REQ-1499,Certification,Staff,2024-01-21,Portal,Normal,IT Helpdesk,9,Yes,3,Pending,No,5.0,
