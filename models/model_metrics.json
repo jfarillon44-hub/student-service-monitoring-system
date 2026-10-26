@@ -1,0 +1,26 @@
+[
+  {
+    "Metric": "Accuracy",
+    "Value": 0.7397
+  },
+  {
+    "Metric": "Precision (breach class)",
+    "Value": 0.4167
+  },
+  {
+    "Metric": "Recall (breach class)",
+    "Value": 0.2941
+  },
+  {
+    "Metric": "F1-score (breach class)",
+    "Value": 0.3448
+  },
+  {
+    "Metric": "Test rows",
+    "Value": 73
+  },
+  {
+    "Metric": "Training rows",
+    "Value": 292
+  }
+]
